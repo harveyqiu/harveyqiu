@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🤔  Who am I ?
+Law School Student/Former Web-FullStack Developer
+法学生/前Web全栈工程师
+
+# 📫  How to reach me
+email: qiushimao@hotmail.com

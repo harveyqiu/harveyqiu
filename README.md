@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 🤔  Who am I ?
-Law School Student/Former Web Full-Stack Developer
+Law School Student / Former Web Full-Stack Developer
 
 法学生 / 前Web全栈工程师
 

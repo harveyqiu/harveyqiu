@@ -22,6 +22,3 @@ Law School Student / Former Web Full-Stack Developer
 
 # 📫  How to reach me
 email: qiushimao@hotmail.com
-
-# Ideas
-- Tech is not evil.

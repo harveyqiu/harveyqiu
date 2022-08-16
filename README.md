@@ -11,7 +11,7 @@ Law School Student / Former Web Full-Stack Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harveyqiu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak](http://github-readme-streak-stats.herokuapp.com?user=harveyqiu)
+![Streak](http://github-readme-streak-stats.herokuapp.com?user=harveyqiu)
 
 # 📫  How to reach me
 email: harveyqiu1110@outlook.com

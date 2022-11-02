@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-# 🤔  Who am I ?
-Law School Student / Former Web Full-Stack Developer
-
-法学生 / 前Web全栈
-
 # Stats
 
 <p align="center">

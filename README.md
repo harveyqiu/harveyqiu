@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Data Compliance Lawyer
+I am currently occupied serving as a data compliance lawyer and may not have the time available to address issues/pull requests.
 
 # Stats
 

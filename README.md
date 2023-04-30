@@ -16,4 +16,4 @@ I am currently occupied serving as a data compliance lawyer and may not have the
 </p>
 
 # 📫  How to reach me
-email: qiushimao@hotmail or harveyqiu1110@outlook.com
+email: qiushimao@hotmail.com or harveyqiu1110@outlook.com

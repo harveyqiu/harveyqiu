@@ -16,4 +16,4 @@ Data Compliance Lawyer
 </p>
 
 # 📫  How to reach me
-email: harveyqiu1110@outlook.com
+email: qiushimao@hotmail or harveyqiu1110@outlook.com

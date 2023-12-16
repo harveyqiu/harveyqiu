@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently occupied serving as a data compliance lawyer and may not have the time available to address issues/pull requests.
+I am currently occupied serving as a trainee lawyer who specializes in data compliance and may not have the time available to address issues/pull requests.
 
 # Stats
 

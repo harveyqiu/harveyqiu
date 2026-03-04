@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently occupied serving as an associate lawyer who specializes in data compliance.
+I am currently occupied serving as Privacy BP.
 
 # Stats
 

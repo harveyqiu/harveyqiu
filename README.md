@@ -14,6 +14,3 @@ I am currently occupied serving as Privacy BP.
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=harveyqiu" align="center" />
 </p>
-
-# 📫  How to reach me
-email: qiushimao@hotmail.com or harveyqiu1110@outlook.com
